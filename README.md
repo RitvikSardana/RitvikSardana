@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritvik Sardana</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritviksardana&label=Profile%20views&color=0e75b6&style=flat" alt="ritviksardana" /> </p>
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611cf4725fb218c2bc1c3ac9ddecbd07eac05d75409&rid=giphy.gif&ct=g" /> 
 
 - 👨‍💻 All of my projects are available at [http://ritvikportfolio.netlify.app/](http://ritvikportfolio.netlify.app/)
 
@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritviksardana&show_icons=true&locale=en&layout=compact" alt="ritviksardana" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritviksardana&show_icons=true&locale=en" alt="ritviksardana" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritviksardana&" alt="ritviksardana" /></p>
