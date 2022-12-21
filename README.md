@@ -8,8 +8,6 @@ Having Internship experience of 2 years working as a Full Stack Developer, Produ
 
 - 👨‍💻 All of my projects are available at [http://ritvikportfolio.netlify.app/](http://ritvikportfolio.netlify.app/)
 
-- 💬 Ask me about **MERN**
-
 - 📫 How to reach me **sardanaritvik1211@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dqH_vl6BVwjjGsEfyx4eyXgQP8II6hS4/view?usp=share_link](https://drive.google.com/file/d/1dqH_vl6BVwjjGsEfyx4eyXgQP8II6hS4/view?usp=share_link)
