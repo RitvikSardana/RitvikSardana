@@ -58,13 +58,12 @@ Having Internship experience of 2 years working as a Full Stack Developer, Produ
 </a> 
 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F925%2F447%2Fpng-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-sreax&tbnid=bIjxKcMbMmpt0M&vet=12ahUKEwi4y7Pikov8AhXljeYKHR8oBuEQMygCegUIARC4AQ..i&docid=vtuG906AAXp21M&w=920&h=920&q=expressjs%20logo%20svg&ved=2ahUKEwi4y7Pikov8AhXljeYKHR8oBuEQMygCegUIARC4AQ" alt="express" width="40" height="40"/> 
 </a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
 </a> 
 <br>
-
-
+</br>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 </a>
@@ -80,7 +79,7 @@ Having Internship experience of 2 years working as a Full Stack Developer, Produ
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
 </p>
-<br>  
+  
 
 
 
