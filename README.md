@@ -1,6 +1,3 @@
-[![MasterHead](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611cf4725fb218c2bc1c3ac9ddecbd07eac05d75409&rid=giphy.gif&ct=g)](http://ritvikportfolio.netlify.app)
-[![MasterHead](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611cf4725fb218c2bc1c3ac9ddecbd07eac05d75409&rid=giphy.gif&ct=g)](http://ritvikportfolio.netlify.app)
-
 <h1 align="center">Hi 👋, I'm Ritvik Sardana</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
