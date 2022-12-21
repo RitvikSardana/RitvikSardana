@@ -43,10 +43,7 @@ Having Internship experience of 2 years working as a Full Stack Developer, Produ
 </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-</a> 
-</p>
-<br>  
-
+</a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
 </a> 
@@ -70,18 +67,22 @@ Having Internship experience of 2 years working as a Full Stack Developer, Produ
 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</a> '
+</a>
 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
 </a>
- 
+
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
+</p>
+<br>  
+
+
 
 
 
