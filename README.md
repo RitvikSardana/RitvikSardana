@@ -1,4 +1,5 @@
-[![MasterHead](https://preview.redd.it/kivay583e8dy.gif?format=mp4&s=f93097317b0339062cd8c72dd8c5377e34e1483b)]
+[![MasterHead](https://preview.redd.it/kivay583e8dy.gif?format=mp4&s=f93097317b0339062cd8c72dd8c5377e34e1483b)](http://ritvikportfolio.netlify.app)
+
 <h1 align="center">Hi 👋, I'm Ritvik Sardana</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
