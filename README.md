@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://preview.redd.it/kivay583e8dy.gif?format=mp4&s=f93097317b0339062cd8c72dd8c5377e34e1483b)]
 <h1 align="center">Hi 👋, I'm Ritvik Sardana</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
