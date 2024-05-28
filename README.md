@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritvik Sardana</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-I am a self-learned Full Stack Developer coming from a background in Btech(ECE) and MBA(Finance). Having Internship experience of 2 years working as a Full Stack Developer, Product Manager, and IoT Developer in 4 different Startups.
+I am a self-learned Full Stack Developer coming from a background in Btech(ECE) and MBA(Finance). Working at Frappe as a Software Developer. My majors interest is in Frontend Development. Currently working on making a Calendar Component in Frappe-UI
 
 
 ## 🌐 Socials:
